@@ -47,15 +47,3 @@ This is a native iOS application that allows users to browse recipes using the M
 
 - Launch the app to see a list of dessert meals.
 - Tap on a meal to view its details including name, instructions, and ingredients/measurements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out.
-
----
-
-**Note**: Please replace the placeholder paths for screenshots with actual paths to the images.
